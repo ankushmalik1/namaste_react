@@ -1,0 +1,3408 @@
+{
+  "statusCode": 0,
+  "data": {
+    "tid": "4306b4b9-c2ba-47c0-8d97-2ad418e68fd7",
+    "sid": "exhb16a6-a2ce-4a0a-8686-6b50e2e58c40",
+    "success": {
+      "cards": [
+        {
+          "relevance": {},
+          "gridWidget": {
+            "header": {
+              "action": {},
+              "headerStyling": {
+                "padding": {}
+              }
+            },
+            "layout": {
+              "rows": 1,
+              "columns": 2,
+              "itemSpacing": 12,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 16,
+                  "top": 16,
+                  "right": 16,
+                  "bottom": 12
+                }
+              },
+              "scrollBar": {
+                "scrollStyling": {
+                  "padding": {}
+                }
+              },
+              "autoScrollConfig": {},
+              "separatorConfig": {}
+            },
+            "imageGridCards": {
+              "info": [
+                {
+                  "id": "410097",
+                  "imageId": "rng/md/carousel/production/ak4f9kufbxgb8fprancy",
+                  "action": {
+                    "link": "swiggy://restaurantList",
+                    "text": "Restaurant",
+                    "type": "DEEPLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "RESTAURANT",
+                    "altTextCta": "Click to know more about Restaurants."
+                  }
+                },
+                {
+                  "id": "1696042",
+                  "imageId": "rng/md/carousel/production/9887a65f6a7e11c18965c02bbf255e79",
+                  "action": {
+                    "link": "swiggy://stores/go",
+                    "text": "Genie",
+                    "type": "DEEPLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "GENIE",
+                    "altTextCta": "Click to know more about Restaurants."
+                  }
+                }
+              ],
+              "style": {
+                "width": {
+                  "type": "TYPE_RELATIVE",
+                  "value": 0.5,
+                  "reference": "RELATIVE_DIMENSION_REFERENCE_CONTAINER_WIDTH"
+                },
+                "height": {
+                  "type": "TYPE_RELATIVE",
+                  "value": 0.79518074,
+                  "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                }
+              }
+            },
+            "id": "ScrollNavSplitP2_latebinding",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.ImageInfoLayoutCard",
+                "info": [
+                  {
+                    "id": "410097",
+                    "imageId": "rng/md/carousel/production/ak4f9kufbxgb8fprancy",
+                    "action": {
+                      "link": "swiggy://restaurantList",
+                      "text": "Restaurant",
+                      "type": "DEEPLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "RESTAURANT",
+                      "altTextCta": "Click to know more about Restaurants."
+                    },
+                    "entityId": "swiggy://restaurantList",
+                    "frequencyCapping": {},
+                    "externalMarketing": {},
+                    "description": "Restaurant"
+                  },
+                  {
+                    "id": "1696042",
+                    "imageId": "rng/md/carousel/production/9887a65f6a7e11c18965c02bbf255e79",
+                    "action": {
+                      "link": "swiggy://stores/go",
+                      "text": "Genie",
+                      "type": "DEEPLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "GENIE",
+                      "altTextCta": "Click to know more about Restaurants."
+                    },
+                    "entityId": "swiggy://stores/go",
+                    "frequencyCapping": {},
+                    "externalMarketing": {},
+                    "description": "Genie"
+                  }
+                ],
+                "style": {
+                  "width": {
+                    "type": "TYPE_RELATIVE",
+                    "value": 0.5,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_CONTAINER_WIDTH"
+                  },
+                  "height": {
+                    "type": "TYPE_RELATIVE",
+                    "value": 0.79518074,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                  }
+                }
+              }
+            },
+            "footer": {
+              "labelWrapper": {}
+            }
+          }
+        },
+        {
+          "relevance": {
+            "type": "RELEVANCE_TYPE_ON_MENU_RETURN",
+            "sectionId": "MENU_RETURN"
+          },
+          "gridWidget": {
+            "header": {
+              "title": "Top Picks For You",
+              "action": {},
+              "imageId": "sl9oogwe7n5dusolt5xe",
+              "headerStyling": {
+                "padding": {
+                  "left": 16,
+                  "top": 15,
+                  "bottom": 24
+                }
+              }
+            },
+            "layout": {
+              "rows": 1,
+              "columns": 16,
+              "horizontalScrollEnabled": true,
+              "shouldSnap": true,
+              "itemSpacing": 12,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 16,
+                  "right": 16,
+                  "bottom": 12
+                }
+              },
+              "scrollBar": {
+                "scrollStyling": {
+                  "padding": {}
+                }
+              },
+              "autoScrollConfig": {},
+              "separatorConfig": {}
+            },
+            "imageGridCards": {
+              "style": {
+                "width": {},
+                "height": {}
+              }
+            },
+            "id": "Updated_4_favourites_SimRestoRelevance",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.FavouriteRestaurantInfoWithStyle",
+                "restaurants": [
+                  {
+                    "info": {
+                      "id": "876561",
+                      "name": "Crepe-fe",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/7/b120d1b2-49ab-4033-a5e1-e8f0689b48da_876561.jpg",
+                      "locality": "opposite McDonald's",
+                      "areaName": "North Amritsar",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": ["Desserts", "Fast Food"],
+                      "avgRating": 3.9,
+                      "parentId": "9136",
+                      "avgRatingString": "3.9",
+                      "totalRatingsString": "8",
+                      "sla": {
+                        "deliveryTime": 36,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textExtendedBadges": {},
+                          "textBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "60% OFF",
+                        "subHeader": "UPTO ₹120"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=876561",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "454230",
+                      "name": "Burger King",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/cab874d5-c7ed-4122-9eb9-935992f4bcee_454230.JPG",
+                      "locality": "Crystel Chowk",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹350 for two",
+                      "cuisines": ["Burgers", "American"],
+                      "avgRating": 4.3,
+                      "parentId": "166",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "5K+",
+                      "sla": {
+                        "deliveryTime": 29,
+                        "lastMileTravel": 1.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "25-30 mins",
+                        "lastMileTravelString": "1.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "Rxawards/_CATEGORY-Burger.png",
+                            "description": "Delivery!"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "Delivery!",
+                                  "imageId": "Rxawards/_CATEGORY-Burger.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textExtendedBadges": {},
+                          "textBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹80"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=454230",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "254129",
+                      "name": "McDonald's",
+                      "cloudinaryImageId": "535fc9f9c135f7982317bbb6a64a1ffc",
+                      "locality": "kashmirian",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": ["American"],
+                      "avgRating": 4.4,
+                      "veg": true,
+                      "parentId": "630",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 22,
+                        "lastMileTravel": 0.6,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "20-25 mins",
+                        "lastMileTravelString": "0.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "Rxawards/_CATEGORY-Burger.png",
+                            "description": "Delivery!"
+                          },
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "Delivery!",
+                                  "imageId": "Rxawards/_CATEGORY-Burger.png"
+                                }
+                              },
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "20% OFF",
+                        "subHeader": "UPTO ₹50"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=254129",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "559903",
+                      "name": "Momos Adda",
+                      "cloudinaryImageId": "mhkpegbm8efr2vcuruhd",
+                      "locality": "Sharma Colony",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["Chinese"],
+                      "avgRating": 4.5,
+                      "veg": true,
+                      "parentId": "435488",
+                      "avgRatingString": "4.5",
+                      "totalRatingsString": "20+",
+                      "sla": {
+                        "deliveryTime": 43,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textExtendedBadges": {},
+                          "textBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "15% OFF",
+                        "subHeader": "ABOVE ₹149",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=559903",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "728442",
+                      "name": "The Food Labb",
+                      "cloudinaryImageId": "4371ea20a925a4be398232931ff0e320",
+                      "locality": "New Partap Nagar",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": ["Pizzas", "Italian", "Burgers", "Salads"],
+                      "avgRating": 4,
+                      "parentId": "433090",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "100+",
+                      "sla": {
+                        "deliveryTime": 52,
+                        "lastMileTravel": 3.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "50-55 mins",
+                        "lastMileTravelString": "3.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=728442",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "425225",
+                      "name": "Amritsari kulcha 24/7",
+                      "cloudinaryImageId": "sfjfrr7tlxxt9c3taf1y",
+                      "locality": "B Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["North Indian", "Punjabi"],
+                      "avgRating": 3.8,
+                      "parentId": "236744",
+                      "avgRatingString": "3.8",
+                      "totalRatingsString": "100+",
+                      "sla": {
+                        "deliveryTime": 41,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=425225",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "313856",
+                      "name": "Midnight Cravings",
+                      "cloudinaryImageId": "c3nckgs559uatf8itcjo",
+                      "locality": "C Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Chinese",
+                        "Indian",
+                        "Italian",
+                        "Beverages",
+                        "North Indian",
+                        "Desserts"
+                      ],
+                      "avgRating": 3.8,
+                      "parentId": "135948",
+                      "avgRatingString": "3.8",
+                      "totalRatingsString": "50+",
+                      "sla": {
+                        "deliveryTime": 42,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=313856",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "76297",
+                      "name": "Cafe Chokolade",
+                      "cloudinaryImageId": "bow9rmnk77jtzjnlqmlq",
+                      "locality": "Ranjit Avenue",
+                      "areaName": "North Amritsar",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": ["North Indian", "Chinese", "Beverages"],
+                      "avgRating": 3.7,
+                      "parentId": "181",
+                      "avgRatingString": "3.7",
+                      "totalRatingsString": "5K+",
+                      "sla": {
+                        "deliveryTime": 38,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "3.9",
+                          "ratingCount": "100+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=76297",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "831865",
+                      "name": "ILD Cafe 24/7",
+                      "cloudinaryImageId": "2469fa88ee9b0b5d1366ba88f2a7fa7f",
+                      "locality": "Ranjit Avenue",
+                      "areaName": "Ajnala Road",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": ["Cafe", "Desserts", "Snacks"],
+                      "avgRating": 4.1,
+                      "parentId": "495155",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "8",
+                      "sla": {
+                        "deliveryTime": 44,
+                        "lastMileTravel": 7.6,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "7.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "4.8",
+                          "ratingCount": "20+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=831865",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "839538",
+                      "name": "Biryani Blues",
+                      "cloudinaryImageId": "b2dd77ecea3604bd620eb7a4bd404ea8",
+                      "locality": "East Amritsar",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["Biryani"],
+                      "parentId": "13813",
+                      "avgRatingString": "NEW",
+                      "sla": {
+                        "deliveryTime": 39,
+                        "lastMileTravel": 1.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "1.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "subHeader": "ABOVE ₹149",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=839538",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "433632",
+                      "name": "Chai wai and coffee 24/7",
+                      "cloudinaryImageId": "ehmamtkrfhdqfaoy9ahf",
+                      "locality": "D Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": ["Indian"],
+                      "avgRating": 4.3,
+                      "parentId": "261413",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "50+",
+                      "sla": {
+                        "deliveryTime": 42,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=433632",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "456402",
+                      "name": "Pizza 24/7",
+                      "cloudinaryImageId": "tjsicyngljfst1mofqqx",
+                      "locality": "B Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": ["Pizzas", "Beverages"],
+                      "avgRating": 4,
+                      "parentId": "274584",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "100+",
+                      "sla": {
+                        "deliveryTime": 43,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textExtendedBadges": {},
+                          "textBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=456402",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "781808",
+                      "name": "Firangi Tadka",
+                      "cloudinaryImageId": "21cb3fc4651212eb23d7795000f2f17c",
+                      "locality": "Sharifpura Gol Maszid",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹150 for two",
+                      "cuisines": [
+                        "North Indian",
+                        "Indian",
+                        "Biryani",
+                        "Fast Food",
+                        "Beverages",
+                        "Chinese",
+                        "Punjabi",
+                        "Bengali",
+                        "Seafood"
+                      ],
+                      "avgRating": 3.8,
+                      "parentId": "3953",
+                      "avgRatingString": "3.8",
+                      "totalRatingsString": "50+",
+                      "sla": {
+                        "deliveryTime": 42,
+                        "lastMileTravel": 1.3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "1.3 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "30% OFF",
+                        "subHeader": "UPTO ₹150",
+                        "discountTag": "SAVE BIG"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=781808",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "333528",
+                      "name": "Combo 100",
+                      "cloudinaryImageId": "e8czkz05rsfqet5sb3da",
+                      "locality": "C Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": ["Indian", "Chinese"],
+                      "avgRating": 4,
+                      "parentId": "64626",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "20+",
+                      "sla": {
+                        "deliveryTime": 41,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=333528",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "562438",
+                      "name": "Gill Momos",
+                      "cloudinaryImageId": "ognebwvuwwinlhkzm4sp",
+                      "locality": "Bhawani Nagar",
+                      "areaName": "Basant nagar",
+                      "costForTwo": "₹100 for two",
+                      "cuisines": ["Chinese", "Burgers", "Snacks"],
+                      "avgRating": 3.8,
+                      "parentId": "338470",
+                      "avgRatingString": "3.8",
+                      "totalRatingsString": "20+",
+                      "sla": {
+                        "deliveryTime": 40,
+                        "lastMileTravel": 3.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "3.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "subHeader": "UPTO ₹40"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=562438",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "459068",
+                      "name": "Kulcha Factory 24 Hours",
+                      "cloudinaryImageId": "njzundrwqjsptdvsdb5a",
+                      "locality": "D Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": ["North Indian", "Punjabi", "Tandoor"],
+                      "avgRating": 4.1,
+                      "parentId": "275965",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "50+",
+                      "sla": {
+                        "deliveryTime": 39,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=459068",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  }
+                ],
+                "theme": "RESTAURANT_GROUP_FAVOURITE_THEME",
+                "widgetType": "WIDGET_TYPE_FAVOURITES",
+                "style": {},
+                "collectionId": "45995"
+              }
+            },
+            "footer": {
+              "labelWrapper": {}
+            }
+          }
+        },
+        {
+          "relevance": {},
+          "gridWidget": {
+            "header": {
+              "action": {},
+              "headerStyling": {
+                "padding": {}
+              }
+            },
+            "layout": {
+              "rows": 1,
+              "columns": 2,
+              "horizontalScrollEnabled": true,
+              "shouldSnap": true,
+              "itemSpacing": 20,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 20,
+                  "top": 12,
+                  "right": 20,
+                  "bottom": 8
+                }
+              },
+              "scrollBar": {
+                "scrollThumbColor": "#E46D47",
+                "scrollTrackColor": "#E4E4E4",
+                "width": 54,
+                "height": 4,
+                "scrollStyling": {
+                  "padding": {
+                    "top": 6,
+                    "bottom": 12
+                  }
+                }
+              },
+              "autoScrollConfig": {
+                "isScrollEnabled": true,
+                "autoScrollDuration": 4,
+                "autoScrollResetDuration": 4
+              },
+              "separatorConfig": {}
+            },
+            "imageGridCards": {
+              "info": [
+                {
+                  "id": "1066810",
+                  "imageId": "rng/md/carousel/production/d560cd519f908dec13d3d8a3974f1601",
+                  "action": {
+                    "link": "swiggy://collectionV2?collection_id=73439&tags=layout_curationFlexi",
+                    "text": "Holi",
+                    "type": "DEEPLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "Get Min 50% off on breakfast specials",
+                    "altTextCta": "Order Now"
+                  }
+                },
+                {
+                  "id": "997504",
+                  "imageId": "rng/md/carousel/production/57f989b7f38386ebe7bc8d0b563f6f26",
+                  "action": {
+                    "link": "swiggy://collectionV2?collection_id=91688&tags=layout_offerzone&header_title=Offer%20Zone&header_title=Offer%20Zone&category=Landingpage_OffersDestination_CATEGORY_Offers",
+                    "text": "Holi",
+                    "type": "DEEPLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "Get Upto 60% off",
+                    "altTextCta": "Order Now"
+                  }
+                }
+              ],
+              "style": {
+                "width": {
+                  "type": "TYPE_RELATIVE",
+                  "value": 0.8,
+                  "reference": "RELATIVE_DIMENSION_REFERENCE_CONTAINER_WIDTH"
+                },
+                "height": {
+                  "type": "TYPE_RELATIVE",
+                  "value": 0.82432,
+                  "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                }
+              }
+            },
+            "id": "Homepage_Version4_Topical_Fullbleed",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.ImageInfoLayoutCard",
+                "info": [
+                  {
+                    "id": "1066810",
+                    "imageId": "rng/md/carousel/production/d560cd519f908dec13d3d8a3974f1601",
+                    "action": {
+                      "link": "swiggy://collectionV2?collection_id=73439&tags=layout_curationFlexi",
+                      "text": "Holi",
+                      "type": "DEEPLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "Get Min 50% off on breakfast specials",
+                      "altTextCta": "Order Now"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=73439&tags=layout_curationFlexi",
+                    "frequencyCapping": {
+                      "cappingEnabled": true,
+                      "cappingMode": "VIEW"
+                    },
+                    "externalMarketing": {},
+                    "description": "Holi"
+                  },
+                  {
+                    "id": "997504",
+                    "imageId": "rng/md/carousel/production/57f989b7f38386ebe7bc8d0b563f6f26",
+                    "action": {
+                      "link": "swiggy://collectionV2?collection_id=91688&tags=layout_offerzone&header_title=Offer%20Zone&header_title=Offer%20Zone&category=Landingpage_OffersDestination_CATEGORY_Offers",
+                      "text": "Holi",
+                      "type": "DEEPLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "Get Upto 60% off",
+                      "altTextCta": "Order Now"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=91688&tags=layout_offerzone&header_title=Offer%20Zone&header_title=Offer%20Zone&category=Landingpage_OffersDestination_CATEGORY_Offers",
+                    "frequencyCapping": {},
+                    "externalMarketing": {},
+                    "description": "Holi"
+                  }
+                ],
+                "style": {
+                  "width": {
+                    "type": "TYPE_RELATIVE",
+                    "value": 0.8,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_CONTAINER_WIDTH"
+                  },
+                  "height": {
+                    "type": "TYPE_RELATIVE",
+                    "value": 0.82432,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                  }
+                }
+              }
+            },
+            "footer": {
+              "labelWrapper": {}
+            }
+          }
+        },
+        {
+          "relevance": {},
+          "gridWidget": {
+            "header": {
+              "title": "Offers For You",
+              "action": {},
+              "headerStyling": {
+                "padding": {
+                  "left": 16,
+                  "top": 24,
+                  "bottom": 24
+                }
+              }
+            },
+            "layout": {
+              "rows": 1,
+              "columns": 4,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 4,
+              "widgetPadding": {
+                "top": 8
+              },
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 16,
+                  "bottom": 24
+                }
+              },
+              "scrollBar": {
+                "scrollStyling": {
+                  "padding": {}
+                }
+              },
+              "autoScrollConfig": {},
+              "separatorConfig": {}
+            },
+            "imageGridCards": {
+              "info": [
+                {
+                  "id": "410104",
+                  "imageId": "rng/md/carousel/production/dzm1eo2punmiqd1idyzn",
+                  "action": {
+                    "link": "swiggy://collectionV2?collection_id=54802&tags=DISCOUNTING_COUPON_TRYNEW",
+                    "text": "TRYNEW",
+                    "type": "DEEPLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "TRYNEW",
+                    "altTextCta": "explore Unique tastes from new eateries"
+                  }
+                },
+                {
+                  "id": "410121",
+                  "imageId": "rng/md/carousel/production/skp6dyt64rxasxs3bqse",
+                  "action": {
+                    "link": "swiggy://collectionV2?collection_id=54908&tags=layout_ux4,DISCOUNTING_COUPON_SWIGGYIT",
+                    "text": "TRYNEW",
+                    "type": "DEEPLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "SWIGGYIT",
+                    "altTextCta": "Offers for 1 Upto 50% off"
+                  }
+                },
+                {
+                  "id": "410109",
+                  "imageId": "rng/md/carousel/production/mbcjw5tiuemimw1pfjli",
+                  "action": {
+                    "link": "swiggy://collectionV2?collection_id=54797&tags=layout_ux4,DISCOUNTING_COUPON_JUMBO",
+                    "text": "JUBO",
+                    "type": "DEEPLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "JUMBO",
+                    "altTextCta": "DEALS FOR TWO - UPTO Rs.200 OFF"
+                  }
+                },
+                {
+                  "id": "410114",
+                  "imageId": "rng/md/carousel/production/glitfsp43tqn8rsfq23a",
+                  "action": {
+                    "link": "swiggy://collectionV2?collection_id=50880&tags=layout_ux4,DISCOUNTING_COUPON_PARTY",
+                    "text": "PARTY",
+                    "type": "DEEPLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "PARTY",
+                    "altTextCta": "Party Steals upto 300/- off"
+                  }
+                }
+              ],
+              "style": {
+                "width": {
+                  "type": "TYPE_RELATIVE",
+                  "value": 0.35714287,
+                  "reference": "RELATIVE_DIMENSION_REFERENCE_CONTAINER_WIDTH"
+                },
+                "height": {
+                  "type": "TYPE_RELATIVE",
+                  "value": 1.1916667,
+                  "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                }
+              }
+            },
+            "id": "Home_P2_Food_Offerwidget_MainComponent_Scrollcards",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.ImageInfoLayoutCard",
+                "info": [
+                  {
+                    "id": "410104",
+                    "imageId": "rng/md/carousel/production/dzm1eo2punmiqd1idyzn",
+                    "action": {
+                      "link": "swiggy://collectionV2?collection_id=54802&tags=DISCOUNTING_COUPON_TRYNEW",
+                      "text": "TRYNEW",
+                      "type": "DEEPLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "TRYNEW",
+                      "altTextCta": "explore Unique tastes from new eateries"
+                    },
+                    "entityId": "54802",
+                    "frequencyCapping": {},
+                    "externalMarketing": {},
+                    "description": "TRYNEW"
+                  },
+                  {
+                    "id": "410121",
+                    "imageId": "rng/md/carousel/production/skp6dyt64rxasxs3bqse",
+                    "action": {
+                      "link": "swiggy://collectionV2?collection_id=54908&tags=layout_ux4,DISCOUNTING_COUPON_SWIGGYIT",
+                      "text": "TRYNEW",
+                      "type": "DEEPLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "SWIGGYIT",
+                      "altTextCta": "Offers for 1 Upto 50% off"
+                    },
+                    "entityId": "54908",
+                    "frequencyCapping": {},
+                    "externalMarketing": {},
+                    "description": "TRYNEW"
+                  },
+                  {
+                    "id": "410109",
+                    "imageId": "rng/md/carousel/production/mbcjw5tiuemimw1pfjli",
+                    "action": {
+                      "link": "swiggy://collectionV2?collection_id=54797&tags=layout_ux4,DISCOUNTING_COUPON_JUMBO",
+                      "text": "JUBO",
+                      "type": "DEEPLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "JUMBO",
+                      "altTextCta": "DEALS FOR TWO - UPTO Rs.200 OFF"
+                    },
+                    "entityId": "54797",
+                    "frequencyCapping": {},
+                    "externalMarketing": {},
+                    "description": "JUBO"
+                  },
+                  {
+                    "id": "410114",
+                    "imageId": "rng/md/carousel/production/glitfsp43tqn8rsfq23a",
+                    "action": {
+                      "link": "swiggy://collectionV2?collection_id=50880&tags=layout_ux4,DISCOUNTING_COUPON_PARTY",
+                      "text": "PARTY",
+                      "type": "DEEPLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "PARTY",
+                      "altTextCta": "Party Steals upto 300/- off"
+                    },
+                    "entityId": "50880",
+                    "frequencyCapping": {},
+                    "externalMarketing": {},
+                    "description": "PARTY"
+                  }
+                ],
+                "style": {
+                  "width": {
+                    "type": "TYPE_RELATIVE",
+                    "value": 0.35714287,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_CONTAINER_WIDTH"
+                  },
+                  "height": {
+                    "type": "TYPE_RELATIVE",
+                    "value": 1.1916667,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                  }
+                }
+              }
+            },
+            "footer": {
+              "labelWrapper": {}
+            }
+          }
+        },
+        {
+          "relevance": {},
+          "gridWidget": {
+            "header": {
+              "title": "All Restaurants Nearby",
+              "subtitle": "Discover unique tastes near you",
+              "action": {},
+              "imageId": "rng/md/production/ipai4xhkoy9ovshdnyn6",
+              "headerStyling": {
+                "padding": {
+                  "left": 16,
+                  "top": 24,
+                  "bottom": 24
+                }
+              }
+            },
+            "layout": {
+              "rows": 25,
+              "columns": 1,
+              "lineSpacing": 24,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "right": 12,
+                  "bottom": 8
+                }
+              },
+              "scrollBar": {
+                "scrollStyling": {
+                  "padding": {}
+                }
+              },
+              "autoScrollConfig": {},
+              "separatorConfig": {}
+            },
+            "imageGridCards": {
+              "style": {
+                "width": {},
+                "height": {}
+              }
+            },
+            "id": "restaurantCollectionDeliveringNowTheme",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantInfoWithStyle",
+                "restaurants": [
+                  {
+                    "info": {
+                      "id": "876561",
+                      "name": "Crepe-fe",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/7/b120d1b2-49ab-4033-a5e1-e8f0689b48da_876561.jpg",
+                      "locality": "opposite McDonald's",
+                      "areaName": "North Amritsar",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": ["Desserts", "Fast Food"],
+                      "avgRating": 3.9,
+                      "parentId": "9136",
+                      "avgRatingString": "3.9",
+                      "totalRatingsString": "8",
+                      "sla": {
+                        "deliveryTime": 36,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "60% OFF",
+                        "subHeader": "UPTO ₹120"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=876561",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "454230",
+                      "name": "Burger King",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/cab874d5-c7ed-4122-9eb9-935992f4bcee_454230.JPG",
+                      "locality": "Crystel Chowk",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹350 for two",
+                      "cuisines": ["Burgers", "American"],
+                      "avgRating": 4.3,
+                      "parentId": "166",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "5K+",
+                      "sla": {
+                        "deliveryTime": 29,
+                        "lastMileTravel": 1.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "25-30 mins",
+                        "lastMileTravelString": "1.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "Rxawards/_CATEGORY-Burger.png",
+                            "description": "Delivery!"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "imageId": "Rxawards/_CATEGORY-Burger.png",
+                                  "description": "Delivery!"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹80"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=454230",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "254129",
+                      "name": "McDonald's",
+                      "cloudinaryImageId": "535fc9f9c135f7982317bbb6a64a1ffc",
+                      "locality": "kashmirian",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": ["American"],
+                      "avgRating": 4.4,
+                      "veg": true,
+                      "parentId": "630",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 22,
+                        "lastMileTravel": 0.6,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "20-25 mins",
+                        "lastMileTravelString": "0.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "Rxawards/_CATEGORY-Burger.png",
+                            "description": "Delivery!"
+                          },
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "imageId": "Rxawards/_CATEGORY-Burger.png",
+                                  "description": "Delivery!"
+                                }
+                              },
+                              {
+                                "attributes": {
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                  "description": "pureveg"
+                                }
+                              }
+                            ]
+                          },
+                          "textExtendedBadges": {},
+                          "textBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "20% OFF",
+                        "subHeader": "UPTO ₹50"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=254129",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "559903",
+                      "name": "Momos Adda",
+                      "cloudinaryImageId": "mhkpegbm8efr2vcuruhd",
+                      "locality": "Sharma Colony",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["Chinese"],
+                      "avgRating": 4.5,
+                      "veg": true,
+                      "parentId": "435488",
+                      "avgRatingString": "4.5",
+                      "totalRatingsString": "20+",
+                      "sla": {
+                        "deliveryTime": 43,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textExtendedBadges": {},
+                          "textBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "15% OFF",
+                        "subHeader": "ABOVE ₹149",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=559903",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "728442",
+                      "name": "The Food Labb",
+                      "cloudinaryImageId": "4371ea20a925a4be398232931ff0e320",
+                      "locality": "New Partap Nagar",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": ["Pizzas", "Italian", "Burgers", "Salads"],
+                      "avgRating": 4,
+                      "parentId": "433090",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "100+",
+                      "sla": {
+                        "deliveryTime": 52,
+                        "lastMileTravel": 3.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "50-55 mins",
+                        "lastMileTravelString": "3.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=728442",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "425225",
+                      "name": "Amritsari kulcha 24/7",
+                      "cloudinaryImageId": "sfjfrr7tlxxt9c3taf1y",
+                      "locality": "B Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["North Indian", "Punjabi"],
+                      "avgRating": 3.8,
+                      "parentId": "236744",
+                      "avgRatingString": "3.8",
+                      "totalRatingsString": "100+",
+                      "sla": {
+                        "deliveryTime": 41,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=425225",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "313856",
+                      "name": "Midnight Cravings",
+                      "cloudinaryImageId": "c3nckgs559uatf8itcjo",
+                      "locality": "C Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Chinese",
+                        "Indian",
+                        "Italian",
+                        "Beverages",
+                        "North Indian",
+                        "Desserts"
+                      ],
+                      "avgRating": 3.8,
+                      "parentId": "135948",
+                      "avgRatingString": "3.8",
+                      "totalRatingsString": "50+",
+                      "sla": {
+                        "deliveryTime": 42,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=313856",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "76297",
+                      "name": "Cafe Chokolade",
+                      "cloudinaryImageId": "bow9rmnk77jtzjnlqmlq",
+                      "locality": "Ranjit Avenue",
+                      "areaName": "North Amritsar",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": ["North Indian", "Chinese", "Beverages"],
+                      "avgRating": 3.7,
+                      "parentId": "181",
+                      "avgRatingString": "3.7",
+                      "totalRatingsString": "5K+",
+                      "sla": {
+                        "deliveryTime": 38,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "3.9",
+                          "ratingCount": "100+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=76297",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "839538",
+                      "name": "Biryani Blues",
+                      "cloudinaryImageId": "b2dd77ecea3604bd620eb7a4bd404ea8",
+                      "locality": "East Amritsar",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["Biryani"],
+                      "parentId": "13813",
+                      "avgRatingString": "NEW",
+                      "sla": {
+                        "deliveryTime": 39,
+                        "lastMileTravel": 1.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "1.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "subHeader": "ABOVE ₹149",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=839538",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "433632",
+                      "name": "Chai wai and coffee 24/7",
+                      "cloudinaryImageId": "ehmamtkrfhdqfaoy9ahf",
+                      "locality": "D Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": ["Indian"],
+                      "avgRating": 4.3,
+                      "parentId": "261413",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "50+",
+                      "sla": {
+                        "deliveryTime": 42,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textExtendedBadges": {},
+                          "textBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=433632",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "456402",
+                      "name": "Pizza 24/7",
+                      "cloudinaryImageId": "tjsicyngljfst1mofqqx",
+                      "locality": "B Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": ["Pizzas", "Beverages"],
+                      "avgRating": 4,
+                      "parentId": "274584",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "100+",
+                      "sla": {
+                        "deliveryTime": 43,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=456402",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "781808",
+                      "name": "Firangi Tadka",
+                      "cloudinaryImageId": "21cb3fc4651212eb23d7795000f2f17c",
+                      "locality": "Sharifpura Gol Maszid",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹150 for two",
+                      "cuisines": [
+                        "North Indian",
+                        "Indian",
+                        "Biryani",
+                        "Fast Food",
+                        "Beverages",
+                        "Chinese",
+                        "Punjabi",
+                        "Bengali",
+                        "Seafood"
+                      ],
+                      "avgRating": 3.8,
+                      "parentId": "3953",
+                      "avgRatingString": "3.8",
+                      "totalRatingsString": "50+",
+                      "sla": {
+                        "deliveryTime": 42,
+                        "lastMileTravel": 1.3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "1.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "30% OFF",
+                        "subHeader": "UPTO ₹150",
+                        "discountTag": "SAVE BIG"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=781808",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "333528",
+                      "name": "Combo 100",
+                      "cloudinaryImageId": "e8czkz05rsfqet5sb3da",
+                      "locality": "C Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": ["Indian", "Chinese"],
+                      "avgRating": 4,
+                      "parentId": "64626",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "20+",
+                      "sla": {
+                        "deliveryTime": 41,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=333528",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "562438",
+                      "name": "Gill Momos",
+                      "cloudinaryImageId": "ognebwvuwwinlhkzm4sp",
+                      "locality": "Bhawani Nagar",
+                      "areaName": "Basant nagar",
+                      "costForTwo": "₹100 for two",
+                      "cuisines": ["Chinese", "Burgers", "Snacks"],
+                      "avgRating": 3.8,
+                      "parentId": "338470",
+                      "avgRatingString": "3.8",
+                      "totalRatingsString": "20+",
+                      "sla": {
+                        "deliveryTime": 40,
+                        "lastMileTravel": 3.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "3.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "subHeader": "UPTO ₹40"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=562438",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "459068",
+                      "name": "Kulcha Factory 24 Hours",
+                      "cloudinaryImageId": "njzundrwqjsptdvsdb5a",
+                      "locality": "D Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": ["North Indian", "Punjabi", "Tandoor"],
+                      "avgRating": 4.1,
+                      "parentId": "275965",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "50+",
+                      "sla": {
+                        "deliveryTime": 39,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=459068",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "899470",
+                      "name": "The Burger House",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/28/4d2c94a1-7171-473b-8721-99ce06168340_899470.jpg",
+                      "locality": "BHALA WALA KHO",
+                      "areaName": "ROSE ENCLAVE",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["Pizzas", "Burgers"],
+                      "avgRating": 4.7,
+                      "parentId": "16588",
+                      "avgRatingString": "4.7",
+                      "totalRatingsString": "3",
+                      "sla": {
+                        "deliveryTime": 45,
+                        "lastMileTravel": 3.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "3.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "subHeader": "UPTO ₹40"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=899470",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "225715",
+                      "name": "Day Night Store",
+                      "cloudinaryImageId": "umz12itzpqow6uqdcnue",
+                      "locality": "B Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["Italian", "Continental"],
+                      "avgRating": 3.7,
+                      "parentId": "69010",
+                      "avgRatingString": "3.7",
+                      "totalRatingsString": "100+",
+                      "sla": {
+                        "deliveryTime": 43,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textExtendedBadges": {},
+                          "textBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "4.1",
+                          "ratingCount": "50+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=225715",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "307624",
+                      "name": "The Fat Lala",
+                      "cloudinaryImageId": "y8pkozbkh9dzsoqklm8z",
+                      "locality": "C Block",
+                      "areaName": "Ranjit Avenue",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": ["Beverages", "Italian", "North Indian"],
+                      "avgRating": 4,
+                      "parentId": "208135",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "50+",
+                      "sla": {
+                        "deliveryTime": 42,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=307624",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "899558",
+                      "name": "The Pizza City",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/28/6cdf8022-45ba-4909-bbc8-7ce4b2ecd470_899558.JPG",
+                      "locality": "GURU NANAK PURA",
+                      "areaName": "North Amritsar",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["Beverages", "Pizzas", "Burgers"],
+                      "parentId": "212563",
+                      "avgRatingString": "NEW",
+                      "sla": {
+                        "deliveryTime": 43,
+                        "lastMileTravel": 3.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "3.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "subHeader": "UPTO ₹40"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=899558",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "784835",
+                      "name": "Momo Bite",
+                      "cloudinaryImageId": "d96fb7eb308ce48c453843339950e5a1",
+                      "locality": "Bhawani Nagar",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹199 for two",
+                      "cuisines": ["Chinese", "Indian", "Burgers", "Fast Food"],
+                      "avgRating": 3.1,
+                      "parentId": "330554",
+                      "avgRatingString": "3.1",
+                      "totalRatingsString": "10+",
+                      "sla": {
+                        "deliveryTime": 44,
+                        "lastMileTravel": 3.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "3.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "30% OFF",
+                        "subHeader": "UPTO ₹75"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=784835",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "783442",
+                      "name": "Royal Delicious Momos",
+                      "cloudinaryImageId": "12cb53d3df287190ef9657cf06d3912b",
+                      "locality": "Bhawani Nagar",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹179 for two",
+                      "cuisines": ["Snacks"],
+                      "avgRating": 3.7,
+                      "parentId": "466172",
+                      "avgRatingString": "3.7",
+                      "totalRatingsString": "5",
+                      "sla": {
+                        "deliveryTime": 41,
+                        "lastMileTravel": 3.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "3.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=783442",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "900075",
+                      "name": "Shakes Club",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/29/56e57392-a180-4483-addb-e6c489027aee_900075.jpg",
+                      "locality": "ROSE ENCLAVE",
+                      "areaName": "Islamabad",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["Beverages", "Pizzas", "Burgers"],
+                      "avgRating": 3.5,
+                      "parentId": "181187",
+                      "avgRatingString": "3.5",
+                      "totalRatingsString": "2",
+                      "sla": {
+                        "deliveryTime": 42,
+                        "lastMileTravel": 3.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "3.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textExtendedBadges": {},
+                          "textBased": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "subHeader": "UPTO ₹40"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=900075",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "737672",
+                      "name": "Mother and kitchen",
+                      "cloudinaryImageId": "160188a98984f12212c646642d836141",
+                      "locality": "Gali Butta Singh Wali",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": ["Indian"],
+                      "avgRating": 4.2,
+                      "parentId": "460077",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "9",
+                      "sla": {
+                        "deliveryTime": 43,
+                        "lastMileTravel": 3.5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "3.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textExtendedBadges": {},
+                          "textBased": {},
+                          "imageBased": {}
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=737672",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "904057",
+                      "name": "BDS Magic Food Kitchen",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/5/1c576d9e-e851-40f0-8a21-3b3bb083f5b1_904057.JPG",
+                      "locality": "New Pawan Nagar",
+                      "areaName": "East Amritsar",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": [
+                        "Chinese",
+                        "Juices",
+                        "Salads",
+                        "Home Food",
+                        "Fast Food"
+                      ],
+                      "avgRating": 5,
+                      "veg": true,
+                      "parentId": "525480",
+                      "avgRatingString": "5.0",
+                      "totalRatingsString": "5",
+                      "sla": {
+                        "deliveryTime": 44,
+                        "lastMileTravel": 3.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "3.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "25% OFF",
+                        "subHeader": "UPTO ₹120"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=904057",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "489538",
+                      "name": "Manu Food Corner",
+                      "cloudinaryImageId": "f2dc59d3743bba9621854d34a9dfccb4",
+                      "locality": "Paris Town",
+                      "areaName": "Basant Nagar",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": ["Chinese", "Snacks"],
+                      "avgRating": 4,
+                      "parentId": "132377",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "50+",
+                      "sla": {
+                        "deliveryTime": 55,
+                        "lastMileTravel": 4,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "55-60 mins",
+                        "lastMileTravelString": "4.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-07-13 06:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "textBased": {},
+                          "imageBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {},
+                    "cta": {
+                      "link": "swiggy://menu?restaurant_id=489538",
+                      "text": "RESTAURANT_MENU",
+                      "type": "DEEPLINK"
+                    }
+                  }
+                ],
+                "theme": "DELIVERING_NOW",
+                "collectionId": "45826",
+                "style": {}
+              }
+            },
+            "footer": {
+              "labelWrapper": {
+                "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.Label",
+                "text": "See all restaurants",
+                "textColor": "#ffffff",
+                "fontSize": 17,
+                "fontName": "FONT_NAME_BOLD",
+                "alignment": "ALIGNMENT_CENTER",
+                "borderRadius": 6,
+                "margin": {
+                  "left": 16,
+                  "top": 16,
+                  "right": 16,
+                  "bottom": 16
+                },
+                "padding": {
+                  "top": 18,
+                  "bottom": 18
+                },
+                "backgroundColor": "#e46d47",
+                "cta": {
+                  "link": "swiggy://restaurantList",
+                  "text": "See all restaurants",
+                  "type": "DEEPLINK"
+                },
+                "maxLines": 1
+              }
+            }
+          }
+        }
+      ],
+      "firstOffsetRequest": true,
+      "cacheExpiryTime": {
+        "value": 600
+      },
+      "nextFetch": 3
+    },
+    "requestId": "0a7d4ea3-e16f-4c08-a9da-6f031abb4173"
+  },
+  "tid": "4306b4b9-c2ba-47c0-8d97-2ad418e68fd7",
+  "sid": "exhb16a6-a2ce-4a0a-8686-6b50e2e58c40",
+  "deviceId": "253bf6ed-3cee-2e9c-2676-a78e375836bd",
+  "csrfToken": "IWRZv5RFdUgW-RTeME5NteUSTVp3l6qkN-2IBqX8"
+}
